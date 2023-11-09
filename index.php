@@ -4,6 +4,7 @@ include('html/header.php');
 require 'fct/items.php';
 include('fct/getItem.php');
 include('connexion.php');
+include('fct/request.php');
 
 ?>
 
